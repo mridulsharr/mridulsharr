@@ -1,5 +1,5 @@
 ## Hi there 👋
-- new to github
+## new to git-hub
 <!--
 **mridulsharr/mridulsharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
